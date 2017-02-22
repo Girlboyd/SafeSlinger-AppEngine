@@ -1,5 +1,3 @@
-application: safeslinger-exchange
-version: 01060000t
 runtime: python27
 api_version: 1
 threadsafe: false
